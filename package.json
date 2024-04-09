@@ -1,0 +1,17 @@
+{
+  "name": "adress-extraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "parquetjs-lite": "^0.8.7",
+    "xlsx": "^0.18.5"
+  }
+}
